@@ -73,4 +73,5 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
-WIP
+__WIP__
+Working on adding CI using Jenkins
